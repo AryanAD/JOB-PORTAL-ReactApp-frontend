@@ -125,7 +125,7 @@ const LoginPage = () => {
               <LockPersonRounded />
             </Avatar>
             <Typography component="h1" variant="h4">
-              HSHAHAHAH
+              Log In
             </Typography>
             <Box
               component="form"
@@ -175,7 +175,7 @@ const LoginPage = () => {
                 variant="contained"
                 sx={{ mt: 3, mb: 2 }}
               >
-                HSHAHAHAH
+                Log In
               </Button>
               <Grid container>
                 <Grid item>
